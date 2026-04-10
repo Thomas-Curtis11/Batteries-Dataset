@@ -1,7 +1,7 @@
 # Batteries Dashboard Project
 # Overview
-Transforming Excel file into Power BI
-Used Power Query to transform the raw data into actionable insights
+Transforming Excel file into Power BI.
+Used Power Query to transform the raw data into actionable insights.
 Built an interactive dashboard to showcase monthly sales, quantity sold monthly, battery sales, and quantity sold per battery type
 
 # Dataset
